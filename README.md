@@ -170,7 +170,7 @@ Diabetes-Prediction/
 
 ## 👨‍💻 Author
 
-**Your Name**
+Anuska Biswas
 
 ---
 
