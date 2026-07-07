@@ -66,3 +66,6 @@ Diabetes-Prediction/
 - Streamlit Web Application
 - Flask API Integration
 - Cloud Deployment
+
+<img width="637" height="361" alt="image" src="https://github.com/user-attachments/assets/0c5f15ca-097b-4c51-9881-e7dab456a07b" />
+
